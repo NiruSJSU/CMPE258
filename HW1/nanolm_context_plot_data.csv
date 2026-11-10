@@ -1,0 +1,9 @@
+run_name,model_family,seq_len,val_bpb
+lstm_ctx_64,lstm,64,2.2257
+lstm_ctx_128,lstm,128,2.1487
+lstm_ctx_256,lstm,256,2.1177
+lstm_ctx_512,lstm,512,2.1179
+gpt_ctx_64_final,gpt,64,2.2627
+gpt_ctx_128_final,gpt,128,2.1638
+gpt_ctx_256_final,gpt,256,2.1159
+gpt_ctx_512_final,gpt,512,2.1014

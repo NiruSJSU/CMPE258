@@ -1,0 +1,3 @@
+[submodule "HW1/DeepDataMiningLearning"]
+	path = HW1/DeepDataMiningLearning
+	url = https://github.com/lkk688/DeepDataMiningLearning.git
